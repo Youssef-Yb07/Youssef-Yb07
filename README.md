@@ -1,31 +1,40 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif)](https://github.com/Youssef-Yb07)
-
-<h1 align="center">Hi there 👋, I'm Bouichenade Youssef </h1>
-
-<p align="center">I'm a passionate Java FullStack Developer, and I'm thrilled to have you on my GitHub profile. Here, you'll find a diverse collection of my projects, contributions, and much more. Feel free to explore, fork, or reach out to me if you have any questions or if you'd like to collaborate on a project. Together, we'll unlock the potential of Java and full-stack development to create something amazing. Happy coding! 👨‍💻🚀</p>
-
-<p align="center">📫 How to reach me: youssef.bouichenade@gmail.com</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/youssef-bouichenade-a47530230/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef bouichenade" height="30" width="40" />
-    </a>
-</p>
-
 <div align="center">
-    <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"
-            width="480" height="360"
-            frameborder="0"
-            class="giphy-embed"
-            allowfullscreen
-            style="display: block; margin: 0 auto;">
-    </iframe>
+  <img height="430" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  />
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Yb07.Youssef-Yb07&"  />
+</div>
+
+###
+
+<h1 align="center">Hi there 👋, I'm Bouichenade Youssef  Java Full Stack Developper</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm a passionate Java FullStack Developer, and I'm thrilled to have you on my GitHub profile. Here, you'll find a diverse collection of my projects, contributions, and much more. Feel free to explore, fork, or reach out to me if you have any questions or if you'd like to collaborate on a project. Together, we'll unlock the potential of Java and full-stack development to create something amazing. Happy coding! 👨‍💻🚀</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -69,17 +78,18 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
-</p>
-</p>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-Yb07&show_icons=true&locale=en&layout=compact" alt="Youssef-Yb07" />
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Yb07&show_icons=true&locale=en" alt="Youssef-Yb07" />
-</div>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Yb07&" alt="Youssef-Yb07" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Yb07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-Yb07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="350" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Youssef-Yb07&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
+
+###
