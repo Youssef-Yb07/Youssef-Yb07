@@ -5,12 +5,10 @@
 ###
 
 <div align="center">
-    <h3 align="center" style="display: inline-block;">Connect with me:</h3>
-    <p align="center" style="display: inline-block;">
-        <a href="https://www.linkedin.com/in/youssef-bouichenade-a47530230/" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef bouichenade" height="30" width="40" />
-        </a>
-    </p>
+    <h3 style="display: inline;">Connect with me: </h3>
+    <a href="https://www.linkedin.com/in/youssef-bouichenade-a47530230/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef bouichenade" height="30" width="40" />
+    </a>
 </div>
 
 
